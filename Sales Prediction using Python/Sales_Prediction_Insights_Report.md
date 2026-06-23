@@ -150,7 +150,7 @@ Data-driven forecasting provides valuable support for sustainable business growt
 
 This project was completed as part of a Data Science learning initiative. The objective was to analyze advertising expenditure data, build a predictive sales model using Python, and derive actionable business insights through data visualization and machine learning techniques.
 
-**Prepared by:** Md. Miraj-Ul-Islam 
-**STUDENT ID:** CA/DF1/162970
-**Project:** Sales Prediction using Python  
+**Prepared by:** Md. Miraj-Ul-Islam\
+**STUDENT ID:** CA/DF1/162970\
+**Project:** Sales Prediction using Python\  
 **Technology Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
