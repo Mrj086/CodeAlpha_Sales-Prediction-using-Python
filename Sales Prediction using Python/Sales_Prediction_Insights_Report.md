@@ -6,7 +6,8 @@
 **CodeAlpha Internship Program:** Data Science \
 **Task:** Sales Prediction and Advertising Impact Analysis
 
-**Prepared By:** Md. Miraj-Ul-Islam
+**Prepared By:** Md. Miraj-Ul-Islam\
+**STUDENT ID:** CA/DF1/162970
 
 ---
 
