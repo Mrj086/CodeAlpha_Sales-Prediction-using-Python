@@ -3,7 +3,7 @@
 ## Project Information
 
 **Project Title:** Sales Prediction using Python  
-**Program:** Data Science Project  
+**CodeAlpha Internship Program:** Data Science 
 **Task:** Sales Prediction and Advertising Impact Analysis
 
 **Prepared By:** Md. Miraj-Ul-Islam
