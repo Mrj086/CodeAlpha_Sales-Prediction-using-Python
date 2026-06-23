@@ -152,5 +152,5 @@ This project was completed as part of a Data Science learning initiative. The ob
 
 **Prepared by:** Md. Miraj-Ul-Islam\
 **STUDENT ID:** CA/DF1/162970\
-**Project:** Sales Prediction using Python\  
+**Project:** Sales Prediction using Python
 **Technology Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
