@@ -89,18 +89,31 @@ python sales_prediction.py
 ## 📁 Project Structure
 
 ```text
-Sales_Prediction_Project/
-
-├── Advertising.csv
-├── sales_prediction.py
-├── sales_prediction.ipynb
-├── figures/
-│   ├── Correlation_Heatmap.png
-│   ├── Actual_vs_Predicted.png
-│   └── Feature_Importance.png
-├── LICENSE
+CodeAlpha_Sales-Prediction-using-Python/
+│
 ├── README.md
-└── requirements.txt
+├── LICENSE
+├── requirements.txt
+│
+├── data/
+│   └── advertising.csv
+│
+├── notebooks/
+│   └── SalesPrediction.ipynb
+│
+├── src/
+│   └── SalesPrediction.py
+│
+├── reports/
+│   └── Sales_Prediction_Insights_Report.md
+│
+├── images/
+│   ├── Task4Figure1.png
+│   ├── Task4Figure2.png
+│   ├── Task4Figure3.png
+│   └── Task4Figure4.png
+│
+└── .gitignore
 ```
 
 ------------------------------------------------------------------------
